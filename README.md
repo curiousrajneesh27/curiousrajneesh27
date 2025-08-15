@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajneesh</h1>
-<h3 align="center">Remote Software Developer Freelancer</h3>
+<h3 align="center">Remote Freelancer Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousrajneesh27&label=Profile%20views&color=0e75b6&style=flat" alt="curiousrajneesh27" /> </p>
 
