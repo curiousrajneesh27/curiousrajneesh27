@@ -16,7 +16,7 @@
 - 👨‍💻 Completed **freelance projects** for clients based in **USA** and **Mumbai**, delivering full-stack, production-ready solutions.  
 - 🧠 Focused on **clean code**, **system design**, and **modern web performance optimization**.  
 - 📫 Email: **curiousrajneesh2024@gmail.com**  
-- 📱 Phone: **+91 90000 12345** <!-- Replace with your real number -->
+- 📱 Phone: **+91 9565245755** <!-- Replace with your real number -->
 
 ---
 
