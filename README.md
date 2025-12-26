@@ -1,6 +1,6 @@
 <!-- Rajneesh Verma - Complete and Updated Professional README.md -->
 
-<h1 align="center">Hi 👋, I'm Rajneesh</h1>
+<h1 align="center">Hi, I'm Rajneesh</h1>
 <h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | Devops engineer| DSA Enthusiast</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🔭 Currently working as a **Remote Software Developer** at **MyEasyLearn**.  
 - 🌱 Learning **Data Structures & Algorithms (DSA)** from **Striver** to enhance problem-solving skills.  
-- 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.  
+- 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.
 - 👨‍💻 Completed **freelance projects** for clients based in **USA** and **Mumbai**, delivering full-stack, production-ready solutions.  
 - 🧠 Focused on **clean code**, **system design**, and **modern web performance optimization**.  
 - 📫 Email: **curiousrajneesh2024@gmail.com**  
@@ -157,7 +157,7 @@
   <a href="https://github.com/curiousrajneesh27" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="tel:+919000012345">
+  <a href="tel:+919565245755">
     <img align="center" src="https://img.shields.io/badge/Phone-%2300C853.svg?style=flat&logo=phone&logoColor=white" alt="phone" />
   </a>
 </p>
