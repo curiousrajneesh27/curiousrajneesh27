@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | Devops engineer| DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=640&lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Open+Source+Contributor;Remote+Software+Developer;Freelancer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=640&lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Open+Source+Contributor;Remote+Software+Developer;Freelancer+%7C+Problem+Solver" alt="" />
 </p>
 
 ---
