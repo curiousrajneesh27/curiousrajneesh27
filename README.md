@@ -3,8 +3,7 @@
 <h1 align="center">Hi, I'm Rajneesh</h1>
 <h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | DevOps Engineer | DSA Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=640&lines=Founding+Engineer;MERN+Stack+Engineer;Remote+Software+Developer;Freelancer+%7C+Problem+Solver" alt="" />
-</p>
+<h3 align="center">Founding Engineeer</h3>
 
 ---
 
