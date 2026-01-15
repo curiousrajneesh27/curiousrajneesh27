@@ -3,7 +3,7 @@
 <h1 align="center">Hii, I'm Rajneesh</h1>
 <h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | DevOps Engineer | DSA Enthusiast</h3>
 
-<h3 align="center">Founding Engineeer</h3>
+<h3 align="center">Founding Engineer | <a href="https://our-portfolio-ssef.vercel.app/" target="_blank">Portfolio</a></h3>
 
 ---
 
@@ -202,4 +202,3 @@
 ---
 
 <p align="center">✨ Thanks for visiting — Keep Learning, Keep Building, Keep Growing!✨</p>
-<p align="center">rajneesh devs</p>
