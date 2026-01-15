@@ -1,6 +1,6 @@
 <!-- Rajneesh Verma - Complete and Updated Professional README.md -->
 
-<h1 align="center">Hi, I'm Rajneesh</h1>
+<h1 align="center">Hii, I'm Rajneesh</h1>
 <h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | DevOps Engineer | DSA Enthusiast</h3>
 
 <h3 align="center">Founding Engineeer</h3>
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Remote Software Developer** at **MyEasyLearn**.
+- 🔭 Currently working as a **Founding Engineer** at **MyEasyLearn**.
 - 🌱 Learning **Data Structures & Algorithms (DSA)** from **Striver** to enhance problem-solving skills.
 - 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.
 - 👨‍💻 Completed **freelance projects** for clients based in **USA** and **Mumbai**, delivering full-stack, production-ready solutions.
@@ -74,7 +74,7 @@
 
 ## 👨‍💻 Experience (Remote / Freelance / Intern)
 
-### 🚀 Remote Software Developer — MyEasyLearn
+### 🚀 Founding Engineer @MyEasyLearn (Africa Startup)
 *(October 2025 – Present | Remote)*
 
 - Building and maintaining **MERN-based web applications** with robust backend architecture and responsive UIs.
@@ -202,3 +202,4 @@
 ---
 
 <p align="center">✨ Thanks for visiting — Keep Learning, Keep Building, Keep Growing! ✨</p>
+<p align="center">✨ rajneesh devs ✨</p>
