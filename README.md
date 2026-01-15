@@ -1,7 +1,7 @@
 <!-- Rajneesh Verma - Complete and Updated Professional README.md -->
 
 <h1 align="center">Hii, I'm Rajneesh</h1>
-<h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | DevOps Engineer | DSA Enthusiast</h3>
+<h3 align="center">A Passionate Software Developer from India | Full-Stack Developer | DevOps Engineer | DSA Learner</h3>
 
 <h3 align="center">Founding Engineer | <a href="https://our-portfolio-ssef.vercel.app/" target="_blank">Portfolio</a></h3>
 
@@ -14,7 +14,7 @@
 - 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.
 - 👨‍💻 Completed **freelance projects** for clients based in **USA** and **Mumbai**, delivering full-stack, production-ready solutions.
 - 🧠 Focused on **clean code**, **system design**, and **modern web performance optimization**.
-- 📫 Email: **curiousrajneesh2024@gmail.com**
+- 📫 Email: **wwrajneesh807@gmail.com**
 - 📱 Phone: **+91 9565245755**
 
 ---
